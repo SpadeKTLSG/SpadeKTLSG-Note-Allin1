@@ -8,6 +8,10 @@
 
 校招攻略独立项目[Personal-School-Recruit-Repo-Allin1](https://github.com/SpadeKTLSG/Personal-School-Recruit-Repo-Allin1)
 
+推荐使用SiYuan, Notion等笔记软件阅读, VSCode也行, 打开父文件夹即可, 加个插件挺舒服
+
+字数统计:
+
 ## 制作
 
 使用SiYuan笔记, 选择导出为.md文件, 搬到这里即可...虽然可能会有格式的缺损, 但是我觉得算可以了, 毕竟我没用啥特性
